@@ -35,4 +35,5 @@ public class Praktikum {
         System.out.println(burger.getReceipt());
     }
 
+
 }
